@@ -32,7 +32,7 @@
     "through2": "2.0.0"
   },
   "devDependencies": {
-    "beautylog": "1.0.6",
+    "beautylog": "1.0.7",
     "gulp": "3.9.0",
     "gulp-callfunction": "0.0.10",
     "gulp-typescript": "2.10.0"
